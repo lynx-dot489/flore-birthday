@@ -2,6 +2,8 @@
 
 Une expérience d’anniversaire douce et interactive, réalisée en HTML, CSS et JavaScript natifs. Aucun outil de compilation, dépendance, compte ou backend n’est nécessaire : ouvrez `index.html` dans un navigateur ou publiez le dossier sur un hébergeur de site statique.
 
+Site en ligne : [https://lynx-dot489.github.io/flore-birthday/](https://lynx-dot489.github.io/flore-birthday/)
+
 ## Personnalisation
 
 - **Lettre et messages :** modifiez directement les textes dans `index.html`. Le texte de la lettre se trouve dans la section `id="lettre"` ; les dix raisons dans `id="raisons"` ; la surprise dans `id="secret"` ; et le message final dans `id="final"`.
